@@ -1,4 +1,4 @@
-package day36;
+package OfficeHour;
 
 public class OfficeHour {
 
